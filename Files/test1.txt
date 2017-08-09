@@ -1,0 +1,8 @@
+Man: Hello: Nancy.
+Woman: Hello Ivan.
+Man: Hello Nancy1.
+Woman: Hello Ivan1.
+Man: Hello Nancy2: hello.
+Woman: Hello Ivan2.
+Man: Hello Nancy3.
+Woman: Hello Ivan3.
