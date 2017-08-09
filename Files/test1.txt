@@ -6,3 +6,134 @@ Man: Hello Nancy2: hello.
 Woman: Hello Ivan2.
 Man: Hello Nancy3.
 Woman: Hello Ivan3.
+
+Man: Hello: Nancy4.
+Woman: Hello Ivan.
+Man: Hello Nancy4.
+Woman: Hello Ivan4.
+Man: Hello Nancy4: hello.
+Woman: Hello Ivan5.
+Man: Hello Nancy5.
+Woman: Hello Ivan5.
+
+Man: Hello: Nancy6.
+Woman: Hello Ivan6.
+Man: Hello 6
+Woman: Hello Ivan6.
+Man: Hello Nancy7: hello.
+Woman: Hello Ivan7.
+Man: Hello Nancy8.
+Woman: Hello Ivan8.
+Man: Hello: Nancy.
+Woman: Hello Ivan.
+Man: Hello Nancy1.
+Woman: Hello Ivan1.
+Man: Hello Nancy2: hello.
+Woman: Hello Ivan2.
+Man: Hello Nancy3.
+Woman: Hello Ivan3.
+
+Man: Hello: Nancy4.
+Woman: Hello Ivan.
+Man: Hello Nancy4.
+Woman: Hello Ivan4.
+Man: Hello Nancy4: hello.
+Woman: Hello Ivan5.
+Man: Hello Nancy5.
+Woman: Hello Ivan5.
+
+Man: Hello: Nancy6.
+Woman: Hello Ivan6.
+Man: Hello 6
+Woman: Hello Ivan6.
+Man: Hello Nancy7: hello.
+Woman: Hello Ivan7.
+Man: Hello Nancy8.
+Woman: Hello Ivan8.
+
+
+Man: Hello: Nancy.
+Woman: Hello Ivan.
+Man: Hello Nancy1.
+Woman: Hello Ivan1.
+Man: Hello Nancy2: hello.
+Woman: Hello Ivan2.
+Man: Hello Nancy3.
+Woman: Hello Ivan3.
+
+Man: Hello: Nancy4.
+Woman: Hello Ivan.
+Man: Hello Nancy4.
+Woman: Hello Ivan4.
+Man: Hello Nancy4: hello.
+Woman: Hello Ivan5.
+Man: Hello Nancy5.
+Woman: Hello Ivan5.
+
+Man: Hello: Nancy6.
+Woman: Hello Ivan6.
+Man: Hello 6
+Woman: Hello Ivan6.
+Man: Hello Nancy7: hello.
+Woman: Hello Ivan7.
+Man: Hello Nancy8.
+Woman: Hello Ivan8.
+
+
+Man: Hello: Nancy.
+Woman: Hello Ivan.
+Man: Hello Nancy1.
+Woman: Hello Ivan1.
+Man: Hello Nancy2: hello.
+Woman: Hello Ivan2.
+Man: Hello Nancy3.
+Woman: Hello Ivan3.
+
+Man: Hello: Nancy4.
+Woman: Hello Ivan.
+Man: Hello Nancy4.
+Woman: Hello Ivan4.
+Man: Hello Nancy4: hello.
+Woman: Hello Ivan5.
+Man: Hello Nancy5.
+Woman: Hello Ivan5.
+
+Man: Hello: Nancy6.
+Woman: Hello Ivan6.
+Man: Hello 6
+Woman: Hello Ivan6.
+Man: Hello Nancy7: hello.
+Woman: Hello Ivan7.
+Man: Hello Nancy8.
+Woman: Hello Ivan8.
+
+
+Man: Hello: Nancy.
+Woman: Hello Ivan.
+Man: Hello Nancy1.
+Woman: Hello Ivan1.
+Man: Hello Nancy2: hello.
+Woman: Hello Ivan2.
+Man: Hello Nancy3.
+Woman: Hello Ivan3.
+
+Man: Hello: Nancy4.
+Woman: Hello Ivan.
+Man: Hello Nancy4.
+Woman: Hello Ivan4.
+Man: Hello Nancy4: hello.
+Woman: Hello Ivan5.
+Man: Hello Nancy5.
+Woman: Hello Ivan5.
+
+Man: Hello: Nancy6.
+Woman: Hello Ivan6.
+Man: Hello 6
+Woman: Hello Ivan6.
+Man: Hello Nancy7: hello.
+Woman: Hello Ivan7.
+Man: Hello Nancy8.
+Woman: Hello Ivan8.
+
+
+

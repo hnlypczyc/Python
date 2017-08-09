@@ -22,12 +22,16 @@ print (other)
 
 
 try:
-    manData = open("..\\Files\\man.txt",'a')
-    otherData = open("..\\Files\\other.txt",'a')
-
-    print(man,file=manData)
-    print(other,file=otherData)
+    #manData = open("..\\Files\\man.txt",'a')
+    #otherData = open("..\\Files\\other.txt",'a')
+    with open("..\\Files\\man.txt",'a') as manData, open('..\\Files\\other.txt','a') as otherData:
+        
+        print(man,file=manData)
+        print(other,file=otherData)
+    '''
+    # 用with语句后，不需要指定关闭数据流
     manData.close()
     otherData.close()
+    '''
 except IOError:
     print("open file error")
